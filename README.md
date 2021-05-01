@@ -1,2 +1,2 @@
 # Index_Method
-Consistent nad parallel index method realizations
+Consistent and parallel index method realizations
